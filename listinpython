@@ -1,0 +1,7 @@
+list1=[2.4,'ganesh',33]
+# Inserting the values
+list1.insert(2,4)
+list1=[2.4,'ganesh',4,33]
+# Removing the values
+list1.remove(2.4)
+list1=['ganesh',4,33]
